@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-  background:url('/assets/dynamic-style');
+  background:url('/assets/dynamic-style.png');
     font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 
 }
@@ -42,14 +42,14 @@ body {
 
 
 	.pagination {
-  background: white;
-  cursor: default;
-  height: 22px;
-  a, span, em {
-    padding: 0.2em 0.5em;
-    display: block;
-    float: left;
-    margin-right: 1px;
+  		background: white;
+  		cursor: default;
+  		height: 22px;
+  		a, span, em {
+   		 padding: 0.2em 0.5em;
+   		 display: block;
+    		float: left;
+    		margin-right: 1px;
   }
   .disabled {
     display: none;
