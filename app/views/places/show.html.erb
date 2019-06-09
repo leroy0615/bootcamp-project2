@@ -103,15 +103,6 @@
   <% end %>
 </div>
 
-<%= link_to 'All places', places_path %>
-<h1><%= @place.title %></h1>
- 
-<%= picture_tag(@place.picture.url, alt: 'Picture') if @place.picture? %>
- 
-<p><%= @picture.body %></p>
- 
-<p><%= link_to 'Edit', edit_place_path(@place) %></p>
-
 
 
     
