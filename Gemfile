@@ -9,7 +9,7 @@ ruby '2.5.3'
 gem 'jquery-rails'
 gem "geocoder"
 gem "figaro"
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.3'
